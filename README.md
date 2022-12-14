@@ -3,10 +3,10 @@
 Anomaly detection for time series data.
 
 ______________________________________________________________________
-[![Documentation](https://img.shields.io/badge/docs-passing-green)](https://alexandrainst.github.io/ts_anomaly/ts_anomaly.html)
-[![License](https://img.shields.io/github/license/alexandrainst/ts_anomaly)](https://github.com/alexandrainst/ts_anomaly/blob/main/LICENSE)
-[![LastCommit](https://img.shields.io/github/last-commit/alexandrainst/ts_anomaly)](https://github.com/alexandrainst/ts_anomaly/commits/main)
-[![Code Coverage](https://img.shields.io/badge/Coverage-0%25-red.svg)](https://github.com/alexandrainst/ts_anomaly/tree/main/tests)
+[![Documentation](https://img.shields.io/badge/docs-passing-green)](https://alexandrainst.github.io/TSAnomaly/ts_anomaly.html)
+[![License](https://img.shields.io/github/license/alexandrainst/TSAnomaly)](https://github.com/alexandrainst/TSAnomaly/blob/main/LICENSE)
+[![LastCommit](https://img.shields.io/github/last-commit/alexandrainst/TSAnomaly)](https://github.com/alexandrainst/TSAnomaly/commits/main)
+[![Code Coverage](https://img.shields.io/badge/Coverage-0%25-red.svg)](https://github.com/alexandrainst/TSAnomaly/tree/main/tests)
 
 
 Developers:
